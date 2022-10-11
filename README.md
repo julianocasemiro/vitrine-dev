@@ -1,6 +1,6 @@
-# Nome do meu projeto
+# Um app de supermercado
 
-Rápida descrição do objetivo de fazer esse projeto
+Quero testar meus conhecimentos e desafiar minha criatividade.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
